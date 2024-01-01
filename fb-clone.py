@@ -35,7 +35,7 @@ def kontol():
 ▐░▌       ▐░▌▐░▌      ▐░▌       ▄ ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌ ▐░▌ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌      ▐░▌      
 ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌     
  ▀         ▀  ▀         ▀       ▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀    ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀
-        ︻デ═一 HACKER : AKASH BLACK HAT
+        ︻デ═一 HACKER : Gaming Hashu
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : AKASH BLACK HAT
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/akashblackhat
@@ -56,10 +56,10 @@ def jembut():
 ▐░▌       ▐░▌▐░▌      ▐░▌       ▄ ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌ ▐░▌ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌      ▐░▌      
 ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌     
  ▀         ▀  ▀         ▀       ▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀    ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀
-              ︻デ═一 HACKER : AKASH BLACK HAT
+              ︻デ═一 HACKER : Gaming Hashu
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : AKASH BLACK HAT
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/akashblackhat
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : Gaming Hashu
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/Hashinur40/fb-clone.py
 
 \x1b[1;94m────────────────────────────────────────────────────""")
 
@@ -74,7 +74,7 @@ def yayanxd():
 
 def moch_yayan():
     time.sleep(0.1)
-    print("\033[97m [\033[96m01\033[97m] Start Crake ID with AKASH BLACK HAT")
+    print("\033[97m [\033[96m01\033[97m] Start Crake ID with Gaming Hashu")
     print("\033[97m [\033[96m02\033[97m] Tutor  How to Get Fb Cookies")
     print("\033[97m [\033[96m03\033[97m] Fallow Fb Account ️")
     print("\033[97m [\033[96m04\033[97m] Fallow git hub ")
